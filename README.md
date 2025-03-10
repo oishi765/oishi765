@@ -4,6 +4,7 @@
 
 I am currently learning computer fundamentals, networking, and C++ while strengthening my knowledge in C and Java. Passionate about cybersecurity, ethical hacking, and system security, I have completed the two courses :"Cybersecurity for Everyone" and "Kali Linux" from cousera.
 
+
 My goal for 2025 is to:
 ✅ Larning Python
 ✅ Learning Data Structure and Algorithm
